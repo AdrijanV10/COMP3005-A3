@@ -10,7 +10,10 @@ A Python application that performs CRUD operations on a PostgreSQL student datab
 
 ### 2. Application Setup
 ```bash
-# Install dependencies
+#Install dependencies
 pip install -r requirements.txt
 # Update database credentials in app/student_manager.py.
 # Change the password in the db_params dictionary to your PostgreSQL password.
+
+#Video link
+https://www.wevideo.com/view/3937762979
